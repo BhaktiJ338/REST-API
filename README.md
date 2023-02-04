@@ -8,7 +8,7 @@ It handles five kind of operatins
 4. PATCH
 5. DELETE
 
-Users can articles with a title and content to test this API.
+Users can add articles with a title and content to test this API.
 
 ### Getting Started
 
@@ -20,7 +20,6 @@ Users can articles with a title and content to test this API.
 
 ### Usage
 
-* Run npm start:dev to start the application.
 * Connect to the API using Postman on localhost:3000/articles.
 
 ### API Endpoints
