@@ -16,7 +16,6 @@ Users can add articles with a title and content to test this API.
 * The main branch is the most stable branch at any given time, ensure you're working from it.
 * Run npm install to install all dependencies
 * You can either work with the default mLab database or use your locally installed MongoDB. Do configure to your choice in the application entry file.
-* Create an .env file in your project root folder and add your variables. See .env.sample for assistance.
 
 ### Usage
 
